@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    position: relative;
 }
 
 div{
@@ -15,6 +16,8 @@ img{
 
 .ajust{
     padding: 10px;
+    position: absolute;
+    left: 35%;
 }
 
 .icons-2{
